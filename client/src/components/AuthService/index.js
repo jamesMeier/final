@@ -4,7 +4,7 @@ export default class AuthService {
   login = (email, password) => {
     // Get a token
     return axios
-      .post("http://localhost:3001/api/users/login", {
+      .post("https://beststorebuy.herokuapp.com/api/users/login", {
         email: email,
         password: password
       })
