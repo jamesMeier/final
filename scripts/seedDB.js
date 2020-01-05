@@ -3,7 +3,10 @@ const db = require("../models");
 
 // This file empties the Posts collection and inserts the books below
 
-mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/reactcms");
+mongoose.connect(
+  process.env.MONGODB_URI ||
+    "mongodb://jamesmeier:Tomato94@ds259878.mlab.com:59878/heroku_mtrf6xgzs"
+);
 
 const productsSeed = [
   {
