@@ -1,0 +1,17 @@
+.category-item {
+    border: none;
+    background: none;
+}
+
+.category-item:hover {
+  color: #9E8FB2;
+}
+
+.search-form {
+    width: 40%;
+    border: solid 2px red;
+  }
+
+.category-heading {
+  color: #9E8FB2;
+}

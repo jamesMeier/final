@@ -1,0 +1,12 @@
+.ProductImage {
+    width: 80%;
+    height: 80%;
+}
+
+body {
+    background-color: lightgrey;
+}
+.titleHeader {
+    margin-top: 15px;
+    margin-left: 15px;
+}

@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "image": "/assets/images/beth.png",
+    "clicked": false,
+    "title": "luggage",
+    "description": "carry-on luggage roller bag",
+    "short_description": "luggage bag",
+    "price": "$120.00",
+    "category": "Electronics"
+  },
+  {
+    "id": 2,
+    "image": "/assets/images/birdperson.png",
+    "clicked": false,
+    "title": "computer",
+    "description": "macbook pro 2017",
+    "short_description": "macbook",
+    "price": "$120.00",
+    "category": "Electronics"
+  },
+  {
+    "id": 3,
+    "image": "/assets/images/evilmorty.png",
+    "clicked": false,
+    "title": "luggage",
+    "description": "carry-on luggage roller bag",
+    "short_description": "luggage bag",
+    "price": "$120.00",
+    "category": "Electronics"
+  },
+  {
+    "id": 4,
+    "image": "/assets/images/gianthead.png",
+    "clicked": false,
+    "title": "luggage",
+    "description": "carry-on luggage roller bag",
+    "short_description": "luggage bag",
+    "price": "$120.00",
+    "category": "Electronics"
+  },
+  {
+    "id": 5,
+    "image": "/assets/images/goldenford.png",
+    "clicked": false,
+    "title": "luggage",
+    "description": "carry-on luggage roller bag",
+    "short_description": "luggage bag",
+    "price": "$120.00",
+    "category": "Electronics"
+  },
+  {
+    "id": 6,
+    "image": "/assets/images/jerry.png",
+    "clicked": false,
+    "title": "luggage",
+    "description": "carry-on luggage roller bag",
+    "short_description": "luggage bag",
+    "price": "$120.00",
+    "category": "Electronics"
+  },
+  {
+    "id": 7,
+    "image": "/assets/images/jessica.png",
+    "clicked": false,
+    "title": "Jeans",
+    "description": "denim 5 pocket jeans",
+    "short_description": "luggage bag",
+    "price": "$20.00",
+    "category": "Clothes"
+  },
+  {
+    "id": 8,
+    "image": "/assets/images/meeseeks.png",
+    "clicked": false,
+    "title": "Refrigerator",
+    "description": "Kenmore Frig",
+    "short_description": "Frig",
+    "price": "$820.00",
+    "category": "Home Goods"
+  },
+  {
+    "id": 9,
+    "image": "/assets/images/morty.png",
+    "clicked": false,
+    "title": "Dongle",
+    "description": "HDMI lightning USB adapter",
+    "short_description": "dongle bag",
+    "price": "$18.00",
+    "category": "Electronics"
+  },
+  {
+    "id": 10,
+    "image": "/assets/images/mr.png",
+    "clicked": false,
+    "title": "luggage",
+    "description": "carry-on luggage roller bag",
+    "short_description": "luggage bag",
+    "price": "$120.00",
+    "category": "Clothes"
+  },
+  {
+    "id": 11,
+    "image": "/assets/images/rick.png",
+    "clicked": false,
+    "title": "Sedan",
+    "description": "4 Door Sedan Used 2013 Toyota Corolla",
+    "short_description": "Car",
+    "price": "$10,320.00",
+    "category": "Auto"
+  },
+  {
+    "id": 12,
+    "image": "/assets/images/summer.png",
+    "clicked": false,
+    "title": "luggage",
+    "description": "carry-on luggage roller bag",
+    "short_description": "luggage bag",
+    "price": "$120.00",
+    "category": "Electronics"
+  }
+]
